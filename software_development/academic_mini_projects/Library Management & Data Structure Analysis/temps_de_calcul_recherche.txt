@@ -1,0 +1,87 @@
+recherche par numéro. Cas 1 : livres présents
+le temps qu'il a fallu pour recherche_num est : 0.000017
+le temps qu'il a fallu pour recherche_numH est : 0.000061
+
+recherche par numéro. Cas 2 : livres absents
+le temps qu'il a fallu pour recherche_num est : 0.000066
+le temps qu'il a fallu pour recherche_numH est : 0.000077
+
+recherche par numéro. Cas 3 : certains absents certains présents
+le temps qu'il a fallu pour recherche_num est : 0.000039
+le temps qu'il a fallu pour recherche_numH est : 0.000055
+
+
+recherche par titre. Cas 1 : livres présents
+le temps qu'il a fallu pour recherche_titre est : 0.000056
+le temps qu'il a fallu pour recherche_titreH est : 0.000080
+
+recherche par titre. Cas 2 : livres absents
+le temps qu'il a fallu pour recherche_titre est : 0.000081
+le temps qu'il a fallu pour recherche_titreH est : 0.000105
+
+recherche par titre. Cas 3 : certains absents certains présents
+le temps qu'il a fallu pour recherche_titre est : 0.000068
+le temps qu'il a fallu pour recherche_titreH est : 0.000083
+
+
+recherche par auteur. Cas 1 : présents
+le temps qu'il a fallu pour recherche_auteur est : 0.000078
+le temps qu'il a fallu pour recherche_auteurH est : 0.000034
+
+recherche par auteur. Cas 2 : absents
+le temps qu'il a fallu pour recherche_auteur est : 0.000079
+le temps qu'il a fallu pour recherche_auteurH est : 0.000126
+
+recherche par auteur. Cas 3 : certains absents certains présents
+le temps qu'il a fallu pour recherche_auteur est : 0.000072
+le temps qu'il a fallu pour recherche_auteurH est : 0.000055
+
+
+ex3.2
+
+taille 100
+
+rechercheH. Cas 1 : présents
+le temps qu'il a fallu pour rechercheH est : 0.000136
+
+rechercheH. Cas 2 : absents
+le temps qu'il a fallu pour rechercheH est : 0.000217
+
+rechercheH. Cas 3 : certains absents certains présents
+le temps qu'il a fallu pour rechercheH est : 0.000206
+
+
+taille 200
+
+rechercheH. Cas 1 : présents
+le temps qu'il a fallu pour rechercheH est : 0.000133
+
+rechercheH. Cas 2 : absents
+le temps qu'il a fallu pour rechercheH est : 0.000353
+
+rechercheH. Cas 3 : certains absents certains présents
+le temps qu'il a fallu pour rechercheH est : 0.000342
+
+
+taille 500
+
+rechercheH. Cas 1 : présents
+le temps qu'il a fallu pour rechercheH est : 0.000388
+
+rechercheH. Cas 2 : absents
+le temps qu'il a fallu pour rechercheH est : 0.000416
+
+rechercheH. Cas 3 : certains absents certains présents
+le temps qu'il a fallu pour rechercheH est : 0.000200
+
+
+taille 1000
+
+rechercheH. Cas 1 : présents
+le temps qu'il a fallu pour rechercheH est : 0.000140
+
+rechercheH. Cas 2 : absents
+le temps qu'il a fallu pour rechercheH est : 0.000205
+
+rechercheH. Cas 3 : certains absents certains présents
+le temps qu'il a fallu pour rechercheH est : 0.000391

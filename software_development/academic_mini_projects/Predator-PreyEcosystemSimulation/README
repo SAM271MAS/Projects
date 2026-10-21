@@ -1,0 +1,7 @@
+- pour compiler :
+make
+
+- pour exécuter
+./ecosys : l'exécutable principal, il gère l'écosystème, il crée le fichier "Evol_Pop.txt"
+./tests_ecosys : pour essayer les fonctions
+./tests_ecosys2* : pour tester certaines des fonctions, il crée les fichiers : "ecrit.txt", "lire.txt"

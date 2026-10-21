@@ -1,0 +1,6 @@
+plot "plus_exemp.txt" using 1:2 title 'ouvrages_plusieurs_exemplaires' with lines
+replot "plus_exemp.txt" using 1:3 title 'ouvrages_plusieurs_exemplairesH' with lines
+set term postscript portrait
+set output "plus_exemp.ps"
+set size 0.7, 0.7
+

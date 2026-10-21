@@ -1,0 +1,3 @@
+# Autonomous Robot Control & Optimization
+
+This project was developed during the course "Intelligence Artificielle et Jeux" and is built on the [Tetracomposibot simulator](https://github.com/nekonaute/tetracomposibot). Different robot strategies were implemented, ranging from reactive Braitenberg behaviors and a subsumption architecture to optimized controllers. Specifically, Random Search and a 1+1 Evolutionary Strategy were used to train a single-layer perceptron, requiring a custom encoding method to compress the robot's state and parameters into a single integer due to strict memory constraints. Finally, a class challenge was organized where these control models were evaluated in automated tournament matches against strategies developed by other students.
